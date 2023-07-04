@@ -1,0 +1,35 @@
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+# Backup files
+*~
+
+# Undo-tree save-files
+*.~undo-tree
+
+.cache
+.DS_Store
+.AppleDouble
+.LSOverride
+
+eln-cache/
+auto-save-list/
+
+straight/
+elpa/
+
+eshell/
+
+*recentf
+
+*org-roam.db
+
+*bookmarks
+
+transient/
+
+*.lsp-session-v1
+*.org-id-locations
